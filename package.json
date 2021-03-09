@@ -1,6 +1,6 @@
 {
   "name": "tsc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A pure Typescript Component framework for building web applications.",
   "main": "dist/index.js",
   "module": "dist/index.js",
